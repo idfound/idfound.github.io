@@ -7,7 +7,7 @@ http://211.137.115.110:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 http://223.110.241.150:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",cctv-4HD
 http://211.137.115.110:8080/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8?p=GITV&area=SAXYD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",cctv-5HD
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",cctv-5HD
 http://183.207.249.34/PLTV/4/224/3221227537/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",cctv-5+HD
 http://211.137.115.110:8080/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8?p=GITV&area=SAXYD
