@@ -7,7 +7,7 @@ http://211.137.115.110:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
 http://223.110.241.150:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",cctv-4HD
 http://211.137.115.110:8080/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8?p=GITV&area=SAXYD
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",cctv-5HD
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",cctv-5HD
 http://183.207.249.34/PLTV/4/224/3221227537/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",cctv-5+HD
 http://211.137.115.110:8080/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8?p=GITV&area=SAXYD
@@ -125,13 +125,13 @@ http://39.135.15.70:6610/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 http://183.207.248.71/cntv/live1/上海纪实频道超高清/HD-8000k-1080P-shanghaijishi
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实HD
 http://183.207.248.71/cntv/live1/北京纪实频道超高清/HD-8000k-1080P-beijingjishi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CETV",CETV-1HD
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="CETV",CETV-1HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CETV",CETV-2
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="CETV",CETV-2
 http://223.110.241.150:6610/gitv/live1/G_CETV-2/G_CETV-2/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CETV",CETV-3
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="CETV",CETV-3
 http://223.110.241.150:6610/gitv/live1/G_CETV-3/G_CETV-3/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CETV",CETV-4
+#EXTINF:-1 tvg-id="76" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="CETV",CETV-4
 http://223.110.241.150:6610/gitv/live1/G_CETV-4/G_CETV-4/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",峨眉电影HD
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
