@@ -26,8 +26,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",cctv-12HD
 http://183.207.248.71/cntv/live1/CCTV-12超高清/HD-8000k-1080P-cctv12
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",cctv-13HD
-http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",cctv-13HD
 http://yf.m.l.cztv.com/channels/lantian/channel16/1080p.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",cctv-14HD
 http://183.207.248.71/cntv/live1/CCTV-14超HD/HD-8000k-1080P-cctv14
@@ -47,8 +45,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 http://211.137.115.110:8080/gitv_live/G_GUANGDONG-MD/G_GUANGDONG-MD.m3u8?p=GITV&area=SAXYD
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
 http://211.137.115.110:8080/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD.m3u8?p=GITV&area=SAXYD
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视HD
-http://223.110.241.150:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视HD
 http://223.110.243.170/PLTV/1/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视HD
