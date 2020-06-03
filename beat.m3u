@@ -22,7 +22,7 @@ http://183.207.248.71/cntv/live1/CCTV-9超HD/HD-8000k-1080P-cctv9
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",cctv-10HD
 http://183.207.248.71/cntv/live1/CCTV-10超HD/HD-8000k-1080P-cctv10
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",cctv-11HD
-http://39.135.33.67/PLTV/88888888/224/3221226085/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",cctv-12HD
 http://183.207.248.71/cntv/live1/CCTV-12超高清/HD-8000k-1080P-cctv12
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",cctv-13HD
@@ -30,11 +30,11 @@ http://36.159.12.236/PLTV/88888888/224/3221226418/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",cctv-14HD
 http://183.207.248.71/cntv/live1/CCTV-14超HD/HD-8000k-1080P-cctv14
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",cctv-15HD
-http://39.135.33.65/PLTV/88888888/224/3221226042/index.m3u8
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",Olympic Channel HD
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",cctv-17HD
-http://39.135.33.161/PLTV/88888888/224/3221226361/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",cctv4K
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
@@ -146,15 +146,15 @@ http://36.159.12.234/PLTV/88888888/224/3221226531/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-古装剧场
 http://36.159.12.236/PLTV/88888888/224/3221226773/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-家庭剧场
-http://39.135.33.66/PLTV/88888888/224/3221225927/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-健康有约
-http://39.135.33.62/PLTV/88888888/224/3221225937/index.m3u8
+http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-金牌综艺
 http://36.159.12.238/PLTV/88888888/224/3221226561/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-爱情喜剧
 http://36.159.12.232/PLTV/88888888/224/3221226742/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-惊悚悬疑
-http://39.135.33.65/PLTV/88888888/224/3221225882/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-军旅剧场
 http://36.159.12.232/PLTV/88888888/224/3221226738/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-精品体育
@@ -162,9 +162,9 @@ http://36.159.12.234/PLTV/88888888/224/3221226543/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-精品记录
 http://36.159.12.236/PLTV/88888888/224/3221226470/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-精品大剧
-http://39.135.33.60/PLTV/88888888/224/3221225935/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-军事评论
-http://39.135.33.65/PLTV/88888888/224/3221225933/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-超级综艺
 http://36.159.12.238/PLTV/88888888/224/3221226561/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv-搏击
