@@ -16,7 +16,7 @@ http://223.110.243.138/PLTV/1/224/3221227505/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7高清
 http://223.110.241.131:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8高清
-http://223.110.243.135/PLTV/1/224/3221227473/index.m3u8
+http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9高清
 http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10高清
@@ -39,6 +39,18 @@ http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",纯享4K
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视高清
+http://39.130.215.158:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://112.50.243.8/PLTV/88888888/224/3221225836/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南宁台",南宁新闻综合
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南宁台",南宁都市生活
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南宁台",南宁影视娱乐
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南宁台",南宁公共
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
 http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视高清
@@ -79,28 +91,18 @@ http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视高清
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://112.50.243.8/PLTV/88888888/224/3221225836/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南宁台",南宁新闻综合
-http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南宁台",南宁都市生活
-http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南宁台",南宁影视娱乐
-http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="南宁台",南宁公共
-http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
-http://112.50.243.8/PLTV/88888888/224/3221225845/1.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视HD
-http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视HD
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视高清
+http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视高清
+http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视高清
 http://112.50.243.8/PLTV/88888888/224/3221226827/1.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视高清
+http://39.130.215.166:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225853/1.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://112.50.243.8/PLTV/88888888/224/3221225850/1.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
@@ -111,20 +113,20 @@ http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://112.50.243.8/PLTV/88888888/224/3221226847/1.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通高清
+http://112.50.243.8/PLTV/88888888/224/3221227018/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿",动漫秀场
 http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="少儿",嘉佳卡通
 http://117.156.28.21/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿",FZTV-少儿
-http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通
-http://117.156.28.21/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="少儿",哈哈炫动
 http://112.50.243.8/PLTV/88888888/224/3221225872/1.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="少儿",优漫卡通
-hhttp://112.50.243.8/PLTV/88888888/224/3221225874/1.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="少儿",卡酷少儿
 http://112.50.243.8/PLTV/88888888/224/3221225871/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿",FZTV-少儿
+http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="少儿",优漫卡通
+hhttp://112.50.243.8/PLTV/88888888/224/3221225874/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓动画
 http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓电竞
@@ -142,9 +144,9 @@ http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv惊悚悬疑
 http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv健康有约
-http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226757/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",Newtv家庭剧场
-http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
+http://39.134.157.205/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",超级电影
 http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Newtv",超级综艺
