@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🇨🇳|央视频道,#genre# ==
-http://0/0.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
@@ -303,8 +301,6 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3
 http://111.20.33.70/PLTV/88888893/224/3221226235/index.m3u8$高清720P
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事
 http://111.20.33.70/PLTV/88888893/224/3221226236/index.m3u8$高清720P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🇨🇳|卫视频道,#genre# ==
-http://1/1.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://111.20.33.70/TVOD/88888893/224/3221226211/index.m3u8$超清1080P
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
@@ -659,8 +655,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8$标�
 http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8$高清1080P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",兵团十四师昆玉综合
 http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8$高清1080P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🇨🇳|联通IPTV,#genre# 
-http://2/2.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226118/iptv65795.smil$超清1080P
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -803,8 +797,6 @@ rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226149/iptv147985.smil$高清72
 rtsp://221.203.83.34:554/PLTV/88888888/224/3221226464/iptv8889102157.smil$高清720P
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 rtsp://221.203.83.34:554/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil$高清720P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🇨🇳|体育频道,#genre# ==
-http://3/3.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT$超清1080P
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
@@ -869,8 +861,6 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🇨🇳|少儿动画,#genre# ==
-http://4/4.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
@@ -989,8 +979,6 @@ http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t1
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊大过年
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🇨🇳|港澳台,#genre# ===
-http://5/5.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清1080P
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视
@@ -1339,8 +1327,6 @@ http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73696$高清1080P
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/34795$高清1080P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HBO2
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🚀|山东,#genre# =====
-http://6/6.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://222.175.159.226:808/hls/19/index.m3u8$超清1080P
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
@@ -1459,8 +1445,6 @@ http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",岱岳综合
 http://slvedio.slradio.cn/a935908a217711ea8bb000163e0e6522/4D6357B92240C088F3612E43E44B5F1D.m3u8?shandd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== ⛱️|广东,#genre# ====
-http://7/7.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://222.175.159.226:808/hls/52/index.m3u8$超清1080P
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
@@ -1757,8 +1741,6 @@ http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8$高清720P
 http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8$高清720P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电白视窗
 http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8$高清720P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== ⛲|江西,#genre# =====
-http://8/8.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西都市
@@ -1849,8 +1831,6 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_pengze.m3u8
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",莲花综合频道
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🎍|湖南,#genre# =====
-http://9/9.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://111.20.33.70/TVOD/88888893/224/3221226211/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",长沙影视
@@ -1933,8 +1913,6 @@ http://play-dgv-xhncloud.voc.com.cn/live/5243_nRI1mM.m3u8
 http://play-dgv-xhncloud.voc.com.cn/live/5243_NbaWW5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",洪江市综合
 http://liveplay.rednet.cn/live/hongjiang_tv_ced5a7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🍁|湖北,#genre# =====
-http://10/10.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://111.20.33.70/PLTV/88888893/224/3221226194/index.m3u8$高清1080P
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
@@ -2077,8 +2055,6 @@ http://59.175.226.142:280/gb28181/xwzh.m3u8$高清1080P
 http://59.175.226.142:280/gb28181/jjsh.m3u8$高清1080P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",郧阳新闻综合
 http://58.19.198.159:2021/hls1.m3u8$高清1080P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🚩|北京,#genre# =====
-http://11/11.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://222.175.159.226:808/hls/45/index.m3u8$超清1080P
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
@@ -2105,8 +2081,6 @@ http://39.135.138.60:18890/PLTV/88888888/224/3221225675/index.m3u8$高清1080P
 http://livesydst.chinamcache.com/sydst/zb04.m3u8?auth_key=1633924026-0-0-674388eaa14736b03bcd6cfd1d294ba1$高清1080P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",清华大学电视台
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8$高清1080P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🍃|上海,#genre# =====
-http://12/12.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://111.20.33.70/PLTV/88888888/224/3221225797/index.m3u8$高清1080P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方影院
@@ -2161,8 +2135,6 @@ http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8$高清1080P
 http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8$高清1080P
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8$高清1080P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 👹|热播大片,#genre# ===
-http://13/13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",雷神4
 https://hnzy3.hnzycdn.com:65/20220907/3HU2FchE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",日班猎人
@@ -2209,8 +2181,6 @@ https://m3u8.zhisongip.com:38741/video/6b5c173718354a0b9e959aeb0b470d51.m3u8
 https://m3u8.zhisongip.com:38741/video/aa435fccf2fa26c52b8b3e23a1b091c1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",隐入尘烟
 https://m3u8.zhisongip.com:38741/video/dc4fbd1e954be9b5bb88eba9e52c86a9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 🎬|影院轮播,#genre# ===
-http://14/14.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
 http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8$超清1080P
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
@@ -2279,10 +2249,6 @@ http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-30
 http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs$高清1080P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",仙侠玄幻
 http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs$高清1080P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",豆瓣高分
-http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=1800558$高清1080P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",====== 高分经典http://wtv.wee
-http://15/15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",女神影院
 https://pull.kktv8.com/livekktv/99350550.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",午夜影院
